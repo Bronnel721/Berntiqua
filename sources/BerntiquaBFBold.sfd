@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1680387818
-ModificationTime: 1697291776
+ModificationTime: 1697313421
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -46,7 +46,7 @@ Lookup: 4 0 0 "'dlig' Discretionary Ligatures in Latin lookup 0" { "'dlig' Discr
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0-1" [150,15,2] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -61,7 +61,7 @@ Grid
  2000 482.299987793 l 1024
   Named: "Number Height"
 EndSplineSet
-BeginChars: 65541 122
+BeginChars: 65541 125
 
 StartChar: exclam
 Encoding: 33 33 0
@@ -6245,6 +6245,72 @@ SplineSet
  131.908203125 253 82.908203125 253.020507812 44.5947265625 253.020507812 c 4
  14.939453125 253.020507812 15.1533203125 332.25390625 45.5703125 332.25390625 c 4
 EndSplineSet
+EndChar
+
+StartChar: mu
+Encoding: 181 181 122
+Width: 479
+Flags: W
+HStem: 0 57<420 467.645> 31 30<264.621 276> 329 60<12.7381 59 245.738 294>
+VStem: 23 103<-88.4568 130.338> 59 54<96.7659 314.313> 59 119<77.1641 329.559> 294 126<74.2891 329.726>
+LayerCount: 2
+Fore
+SplineSet
+59 281 m 4x2a
+ 59 309 72 317 84 317 c 4
+ 123 317 113 164 113 98 c 4x2a
+ 113 32 126 0 126 -53 c 4
+ 126 -79 109 -100 73 -100 c 4
+ 39 -100 23 -64 23 -22 c 4x32
+ 23 80 59 136 59 281 c 4x2a
+EndSplineSet
+Refer: 64 117 N 1 0 0 1 14 0 2
+EndChar
+
+StartChar: copyright
+Encoding: 169 169 123
+Width: 654
+Flags: W
+HStem: -14 61.4004<228.747 425.672> 111.6 33.6<317.984 399.255> 436.8 39.6<316.675 393.61> 538.6 61.4004<228.315 432.916>
+VStem: 23 60.7998<192.118 397.047> 165 98.4<219.898 361.247> 426.6 38.4<348.538 401.868> 570.2 60.7998<193.992 398.185>
+LayerCount: 2
+Fore
+SplineSet
+83.7998046875 294.599609375 m 0
+ 83.7998046875 138.599609375 205.400390625 47.400390625 328.599609375 47.400390625 c 0
+ 451.799804688 47.400390625 570.200195312 145 570.200195312 292.83984375 c 0
+ 570.200195312 440.6796875 467 538.599609375 335.799804688 538.599609375 c 0
+ 204.599609375 538.599609375 83.7998046875 450.599609375 83.7998046875 294.599609375 c 0
+23 295 m 0
+ 23 490 174 600 338 600 c 0
+ 502 600 631 477.599609375 631 292.799804688 c 0
+ 631 108 483 -14 329 -14 c 0
+ 175 -14 23 100 23 295 c 0
+EndSplineSet
+Refer: 20 67 N 0.6 0 0 0.6 156 117.6 2
+EndChar
+
+StartChar: registered
+Encoding: 174 174 124
+Width: 654
+Flags: W
+HStem: -14 61.4004<228.747 425.672> 122.6 43.2<420.855 475.701> 125.6 31.2<172.468 199.668 288.813 314.528> 295.4 32.4<289.658 349.238> 440 35.4<167.545 201.206> 444.2 31.2<288.178 358.74> 538.6 61.4004<228.315 432.916>
+VStem: 23 60.7998<192.118 397.047> 201.42 85.8<160.102 294.453 330.363 439.862> 360.555 90<167.923 283.369> 374.82 85.2<346.959 428.144> 570.2 60.7998<193.992 398.185>
+LayerCount: 2
+Fore
+SplineSet
+83.7998046875 294.599609375 m 0x9390
+ 83.7998046875 138.599609375 205.400390625 47.400390625 328.599609375 47.400390625 c 0
+ 451.799804688 47.400390625 570.200195312 145 570.200195312 292.83984375 c 0
+ 570.200195312 440.6796875 467 538.599609375 335.799804688 538.599609375 c 0
+ 204.599609375 538.599609375 83.7998046875 450.599609375 83.7998046875 294.599609375 c 0x9390
+23 295 m 0
+ 23 490 174 600 338 600 c 0
+ 502 600 631 477.599609375 631 292.799804688 c 0
+ 631 108 483 -14 329 -14 c 0
+ 175 -14 23 100 23 295 c 0
+EndSplineSet
+Refer: 35 82 N 0.6 0 0 0.6 160.155 125.6 2
 EndChar
 EndChars
 EndSplineFont
