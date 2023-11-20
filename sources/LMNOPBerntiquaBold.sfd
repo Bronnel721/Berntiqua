@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1680387818
-ModificationTime: 1700450069
+ModificationTime: 1700450313
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -57,7 +57,7 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 50
-WinInfo: 0 27 9
+WinInfo: 405 27 9
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -90,7 +90,7 @@ Grid
   Named: "Number Height"
 EndSplineSet
 AnchorClass2: "Anchor-3" "'mark' Mark Positioning in Latin lookup 1-1" "Anchor-2" "'mark' Mark Positioning in Latin lookup 1-1" "Anchor-0" "'mark' Mark Positioning in Latin lookup 1-1"
-BeginChars: 65557 472
+BeginChars: 65557 479
 
 StartChar: exclam
 Encoding: 33 33 0
@@ -42494,11 +42494,11 @@ VWidth: 1250
 Flags: W
 HStem: -12 75<337.913 482.087> 662 76<334.137 485.863> 782 94<444.675 541.086> 830 98<296.175 393.639>
 VStem: 29 203<230.667 498.772> 588 203<230.667 498.772>
+AnchorPoint: "Anchor-0" 426 927 basechar 0
 LayerCount: 2
 Fore
 Refer: 190 771 N 1 0 0 1 221 190 2
 Refer: 32 79 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: atilde
@@ -42536,11 +42536,11 @@ VWidth: 1250
 Flags: W
 HStem: -12 64<232.824 331.176> 426 64<232.824 331.176> 532 94<317.675 414.086> 580 98<169.175 266.639>
 VStem: 21 165<134.324 342.105> 378 165<134.324 342.105>
+AnchorPoint: "Anchor-0" 302 678 basechar 0
 LayerCount: 2
 Fore
 Refer: 190 771 N 1 0 0 1 94 -60 2
 Refer: 58 111 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni030A
@@ -48639,11 +48639,11 @@ VWidth: 1250
 Flags: W
 HStem: 0 72<-12.1301 78.1669 170.007 266.267 450.877 524.996 708.488 791.13> 215 83<269.063 422.754> 474 255<315.472 400> 634 81<195.032 276.621> 782 167<315.635 387.35>
 VStem: 256 189<835.9 895.1>
+AnchorPoint: "Anchor-0" 364 949 basechar 0
 LayerCount: 2
 Fore
 Refer: 222 775 N 1 0 0 1 230 212 2
 Refer: 18 65 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni0227
@@ -48653,11 +48653,11 @@ VWidth: 1250
 Flags: W
 HStem: -12 80<380 485.222> 31 31<264.386 281.032> 289 43<200.088 286.375> 289 60<167.168 281.743> 432 58<190.451 277.167> 532 167<219.635 291.35>
 VStem: 6 166<87.5478 259.284> 160 189<585.9 645.1> 298 144<73.2677 278.507> 298 156<89.5034 403.217>
+AnchorPoint: "Anchor-0" 265 699 basechar 0
 LayerCount: 2
 Fore
 Refer: 222 775 N 1 0 0 1 134 -38 2
 Refer: 44 97 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni0228
@@ -48693,11 +48693,11 @@ VWidth: 1250
 Flags: W
 HStem: -12 75<337.913 482.087> 662 76<334.137 485.863> 782 167<379.635 451.35>
 VStem: 29 203<230.667 498.772> 320 189<835.9 895.1> 588 203<230.667 498.772>
+AnchorPoint: "Anchor-0" 428 949 basechar 0
 LayerCount: 2
 Fore
 Refer: 222 775 N 1 0 0 1 294 212 2
 Refer: 32 79 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni022F
@@ -48707,11 +48707,11 @@ VWidth: 1250
 Flags: W
 HStem: -12 64<232.824 331.176> 426 64<232.824 331.176> 532 167<251.635 323.35>
 VStem: 21 165<134.324 342.105> 192 189<585.9 645.1> 378 165<134.324 342.105>
+AnchorPoint: "Anchor-0" 298 699 basechar 0
 LayerCount: 2
 Fore
 Refer: 222 775 N 1 0 0 1 166 -38 2
 Refer: 58 111 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni0232
@@ -51032,6 +51032,104 @@ SplineSet
  32.5126953125 606.530273438 18 622.849609375 18 647.330078125 c 4
  18 687.426757812 68.138671875 737.729492188 150.799804688 737.729492188 c 4xd0
 EndSplineSet
+EndChar
+
+StartChar: uni01DD
+Encoding: 477 477 472
+Width: 521
+VWidth: 1250
+Flags: W
+HStem: -12 64<165.752 272.735> 135 63<149.026 291.93> 425 65<155.567 264.238>
+VStem: 16 133<81.495 172.5> 314 181<210.263 343.479>
+AnchorPoint: "Anchor-0" 226 479 basechar 0
+AnchorPoint: "Anchor-2" 231 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+208 425 m 0
+ 132 425 132 334 68 334 c 0
+ 40 334 15 357 15 384 c 0
+ 15 445 118 490 225 490 c 0
+ 386 490 495 388 495 238 c 0
+ 495 101 374 -12 221 -12 c 0
+ 102 -12 16 65 16 161 c 0
+ 16 184 37 198 69 198 c 2
+ 256 198 l 2
+ 296 198 314 219 314 266 c 0
+ 314 364 275 425 208 425 c 0
+220 52 m 0
+ 263 52 292 81 292 112 c 0
+ 292 126 282 135 265 135 c 2
+ 180 135 l 2
+ 158 135 149 128 149 112 c 0
+ 149 79 176 52 220 52 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni01E0
+Encoding: 480 480 473
+Width: 788
+HStem: 0 72<-12.1301 78.1669 170.007 266.267 450.877 524.996 708.488 791.13> 215 83<269.063 422.754> 474 255<315.472 400> 634 81<195.032 276.621> 782 167<315.635 387.35> 989 80<185.582 359.571 366.348 548.225> 1000 58<229.907 503.359>
+VStem: 256 189<835.9 895.1>
+LayerCount: 2
+Fore
+Refer: 220 772 N 1 0 0 1 153 340 2
+Refer: 347 550 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01E1
+Encoding: 481 481 474
+Width: 528
+HStem: -12 80<380 485.222> 31 31<264.386 281.032> 289 43<200.088 286.375> 289 60<167.168 281.743> 432 58<190.451 277.167> 532 167<219.635 291.35> 739 80<86.5818 260.571 267.348 449.225> 750 58<130.907 404.359>
+VStem: 6 166<87.5478 259.284> 160 189<585.9 645.1> 298 144<73.2677 278.507> 298 156<89.5034 403.217>
+LayerCount: 2
+Fore
+Refer: 220 772 N 1 0 0 1 54 90 2
+Refer: 348 551 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0230
+Encoding: 560 560 475
+Width: 826
+HStem: -12 75<337.913 482.087> 662 76<334.137 485.863> 782 167<379.635 451.35> 989 80<249.582 423.571 430.348 612.225> 1000 58<293.907 567.359>
+VStem: 29 203<230.667 498.772> 320 189<835.9 895.1> 588 203<230.667 498.772>
+LayerCount: 2
+Fore
+Refer: 220 772 N 1 0 0 1 217 340 2
+Refer: 351 558 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0231
+Encoding: 561 561 476
+Width: 570
+HStem: -12 64<232.824 331.176> 426 64<232.824 331.176> 532 167<251.635 323.35> 739 80<119.582 293.571 300.348 482.225> 750 58<163.907 437.359>
+VStem: 21 165<134.324 342.105> 192 189<585.9 645.1> 378 165<134.324 342.105>
+LayerCount: 2
+Fore
+Refer: 220 772 N 1 0 0 1 87 90 2
+Refer: 352 559 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni022C
+Encoding: 556 556 477
+Width: 826
+HStem: -12 75<337.913 482.087> 662 76<334.137 485.863> 782 94<444.675 541.086> 830 98<296.175 393.639> 967 80<247.582 421.571 428.348 610.225> 978 58<291.907 565.359>
+VStem: 29 203<230.667 498.772> 588 203<230.667 498.772>
+LayerCount: 2
+Fore
+Refer: 220 772 N 1 0 0 1 215 318 2
+Refer: 193 213 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni022D
+Encoding: 557 557 478
+Width: 570
+HStem: -12 64<232.824 331.176> 426 64<232.824 331.176> 532 94<317.675 414.086> 580 98<169.175 266.639> 718 80<123.582 297.571 304.348 486.225> 729 58<167.907 441.359>
+VStem: 21 165<134.324 342.105> 378 165<134.324 342.105>
+LayerCount: 2
+Fore
+Refer: 220 772 N 1 0 0 1 91 69 2
+Refer: 196 245 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont
